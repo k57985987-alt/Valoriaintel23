@@ -1,0 +1,18 @@
+{
+  "name": "Valoria Intel",
+  "short_name": "Valoria Intel",
+  "description": "China sourcing supplier database",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#c8a96e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
